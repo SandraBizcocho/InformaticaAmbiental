@@ -6,9 +6,9 @@
 
 1.3 Residuos Informáticos
 
-1.4 Obsolescencia programada
+1.4 Obsolescencia Programada
 
-1.5 Informática ecológica
+1.5 Informática Ecológica
 
 1.6 Conclusiones
 
