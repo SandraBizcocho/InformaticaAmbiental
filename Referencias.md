@@ -1,6 +1,5 @@
 # Referencias
 
-    Global E-waste Monitor 2020. United Nations University.
-    "Environmental impact of IT: challenges and solutions" - Journal of Cleaner Production.
-    Directiva 2012/19/UE sobre residuos de aparatos eléctricos y electrónicos.
-    Energy and Data Centers: Trends and Policy Responses. International Energy Agency.
+https://www.ibm.com/mx-es/think/topics/green-computing
+https://es.wikipedia.org/wiki/Tecnolog%C3%ADa_ambiental
+https://www.infobae.com/tecno/2023/10/21/siete-consejos-tecnologicos-para-cuidar-el-medio-ambiente/
