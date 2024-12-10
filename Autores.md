@@ -1,3 +1,3 @@
 # Autores
 
-Adrián Batres Mármol, Carmen Mª y Sandra Bizcocho Cordero
+Adrián Batres Mármol, Carmen Mª González Arias y Sandra Bizcocho Cordero
